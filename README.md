@@ -63,13 +63,14 @@ npm run dev
 
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
+- [x] **State Management**: Implemented using React's Context API for lightweight global state management.
+- [x] **Styling**: Pure CSS with CSS Modules for scoped and efficient styling.
+- [x] **Accessibility**: Following WCAG guidelines to ensure an accessible user experience.
+- [x] **Responsive Design**: Fully responsive across different screen sizes.
+- [x] **Performance Optimizations**: Tested with Lighthouse to ensure fast loading and efficient rendering.
+- [ ] **UI Enhancement**: Improve the UI design and user experience by introducing custom themes and refining component layouts.
+- [ ] **Testing Expansion**: Add more comprehensive unit and integration tests to ensure code reliability.
+- [ ] **Feature Expansion**: Additional features and functionalities based on feedback and requirements.
 
 ### Built With
 

@@ -40,10 +40,14 @@ Fork this repository to your own GitHub account to work on it independently.
 2. Clone the Repository:
 
 Clone the forked repository to your local machine:
-`git clone https://github.com/your-username/front-code-challenge.git`
+```bash
+git clone https://github.com/your-username/front-code-challenge.git
+```
 
 3. Navigate to the Project Directory:
-   `cd front-code-challenge`
+```bash
+cd front-code-challenge
+```
 
 4. Install Dependencies:
 
@@ -53,8 +57,9 @@ Install all required dependencies using npm:
 ## Usage
 
 To run the application in development mode:
-
-- `npm run dev`
+```bash
+npm run dev
+```
 
 ## Roadmap
 

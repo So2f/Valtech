@@ -40,7 +40,13 @@ const DetailPage = () => {
       <main className={styles.content}>
         <div className={`${styles.flexRow} text-large`}>
           <Link href="/">
-            <Image src={Arrow} alt="Back Button" width={25} height={20} />
+            <Image
+              src={Arrow}
+              alt="Go Back Button"
+              width={25}
+              height={25}
+              className={styles.Arrow}
+            />
           </Link>
           <p className={styles.backText}>Back</p>
         </div>

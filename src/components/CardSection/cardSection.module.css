@@ -87,6 +87,7 @@
 .button:hover {
   background-color: var(--color-accent);
   border: none;
+  color: white;
 }
 
 .largeCard .cardContent {

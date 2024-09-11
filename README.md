@@ -40,10 +40,14 @@ Fork this repository to your own GitHub account to work on it independently.
 2. Clone the Repository:
 
 Clone the forked repository to your local machine:
-`git clone https://github.com/your-username/front-code-challenge.git`
+```bash
+git clone https://github.com/your-username/front-code-challenge.git
+```
 
 3. Navigate to the Project Directory:
-   `cd front-code-challenge`
+```bash
+cd front-code-challenge
+```
 
 4. Install Dependencies:
 
@@ -53,18 +57,20 @@ Install all required dependencies using npm:
 ## Usage
 
 To run the application in development mode:
-
-- `npm run dev`
+```bash
+npm run dev
+```
 
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
+- [x] **State Management**: Implemented using React's Context API for lightweight global state management.
+- [x] **Styling**: Pure CSS with CSS Modules for scoped and efficient styling.
+- [x] **Accessibility**: Following WCAG guidelines to ensure an accessible user experience.
+- [x] **Responsive Design**: Fully responsive across different screen sizes.
+- [x] **Performance Optimizations**: Tested with Lighthouse to ensure fast loading and efficient rendering.
+- [ ] **UI Enhancement**: Improve the UI design and user experience by introducing custom themes and refining component layouts.
+- [ ] **Testing Expansion**: Add more comprehensive unit and integration tests to ensure code reliability.
+- [ ] **Feature Expansion**: Additional features and functionalities based on feedback and requirements.
 
 ### Built With
 
